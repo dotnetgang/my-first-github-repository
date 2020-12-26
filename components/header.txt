@@ -4,4 +4,8 @@ all codes go here ...
 
 Here my other chanage locally. 
 
+// new component features
+  Yury B. has added some more code here...using GitHub Remotely.
+// end new component features added by Yury B.
+
 end of the Header componente

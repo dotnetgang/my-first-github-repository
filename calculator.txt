@@ -1,0 +1,6 @@
+This is a calculator 
+2X2=4
+
+Note: this file had been created in remote repo. 
+
+Author: Alex G.
